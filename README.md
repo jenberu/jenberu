@@ -12,6 +12,8 @@
 - 💬 Ask me about **java, javafx, flutter, dart,PHP Js**
 
 - 📫contact me **jemberu0970@gmail.com**
+- 👨‍💻 [ About Me ](https://jenberu.github.io/MyPortifolo)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
