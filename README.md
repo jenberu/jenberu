@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jemberu Kassie</h1>
 <h3 align="center">Software developer</h3>
 
-- 🔭 I’m currently working on [Flutter mobile app development](https://github.com/jenberu/Flutter-E_Learning-App)
+- 🔭 I’m currently working on [Oline Mini shops web app](https://github.com/jenberu/Django-Online-shoping)
 
 - 🌱 I’m currently learning **Flutter , Compiler design, software Testing**
 
