@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/jenberu](https://github.com/jenberu)
 
 - 💬 Ask me about **java, javafx, flutter, dart,PHP Js,reactjs,django,jsp,jsf**
-- 
+
 - 👨‍💻 [ Check out my Portfolio ](https://jenberu.github.io/MyPortifolo)
 
 - 📫contact me **jemberu0970@gmail.com**
