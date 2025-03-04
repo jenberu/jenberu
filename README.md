@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jemberu Kassie</h1>
 <h3 align="center">Software developer</h3>
 
-- 🔭 I’m currently working on [Oline Mini shops web app](https://github.com/jenberu/Django-Online-shoping)
+- 🔭 I’m currently working on full-stack back-end and front-end development 
 
-- 🌱 I’m currently learning **Flutter , Compiler design, software Testing**
-
-- 👯 I’m looking to collaborate on [compiler Development](https://github.com/jenberu/Java-compiler-Development)
+- 👯 I’m open to **collaborations** on exciting software projects.  
 
 - 👨‍💻 All of my projects are available at [https://github.com/jenberu](https://github.com/jenberu)
 
-- 💬 Ask me about **java, javafx, flutter, dart,PHP Js,react,django,jsp,jsf**
+- 💬 Ask me about **java, javafx, flutter, dart,PHP Js,reactjs,django,jsp,jsf**
+- 
+- 👨‍💻 [ Check out my Portfolio ](https://jenberu.github.io/MyPortifolo)
 
 - 📫contact me **jemberu0970@gmail.com**
-- 👨‍💻 [ About Me ](https://jenberu.github.io/MyPortifolo)
 
 
 <h3 align="left">Connect with me:</h3>
